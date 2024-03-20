@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #6d5656;
+  text-align: center;
+}
+h1 {
+  margin: 15px auto;
+}
+#container {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#game {
+  height: 60vmin;
+  width: 60vmin;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2vmin;
+}
+.box {
+  height: 18vmin;
+  width: 18vmin;
+  border-radius: 1rem;
+  border: none;
+  font-size: 8vmin;
+  color: #004a4a;
+}
+#reset {
+  font-size: 26px;
+  padding: 0.5rem 2.5rem;
+  background-color: black;
+  color: azure;
+  border: none;
+  border-radius: 1rem;
+}
+.hide {
+  display: none;
+}
+#ng_btn {
+  font-size: 26px;
+  padding: 0.5rem 2.5rem;
+  background-color: black;
+  margin-top: 3rem;
+  color: azure;
+  border: none;
+  border-radius: 1rem;
+}
+.message {
+  font-size: 3rem;
+  font-weight: 600;
+  margin-bottom: 5rem;
+  color: white;
+}
