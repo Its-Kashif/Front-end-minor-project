@@ -4,5 +4,9 @@ This project contains only frontend technologies based Project that are created 
 
 ##Thses are small projects present in the repositiries.
 
-1) Changing mode of the display by clicking on the button.(Target Technologies: JavaScript).
-2) Tic Tac Toe Game (TargetTechnologies: JavaScript)
+1) Changing mode of the display by clicking on the button.(Target Technologies: JavaScript)
+   Purpose: To know how can we use Javascript to make change in web page dynamically.
+2) Tic Tac Toe Game (Target Technologies: JavaScript)
+    purpose: To be familiar with the JavaScript and to get confidence in JavaScript logic.
+3) South India Shopping Mall (Target Technologies: HTML , CSS)
+   purpose: To get hands on experience in HTML and CSS.
