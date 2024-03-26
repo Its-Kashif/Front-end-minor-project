@@ -12,3 +12,5 @@ This project contains only frontend technologies based minor Projects that are c
    purpose: To get hands on experience in HTML and CSS.
 4) Tic Tac Toe Game (Target technology: JavaScript)
    Purpose: To do practice and to understand the logic building  in order to make our webpage dynamic.
+5)Registration Form (Target technology: HTML)
+  purpose: To practice and revise the html  and their elements.
