@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <h4>Registration</h4>
+      <hr />
+    </header>
+    <main>
+      <form action="">
+        <br /><br />
+        <section>
+          <label for="first-name"
+            >First Name
+            <input type="text" placeholder=" First Name" id="first-name" />
+          </label>
+          <br />
+          <br />
+          <label for="last-name"
+            >Last Name
+            <input type="text" placeholder="last name" id="last-name" />
+          </label>
+          <br /><br />
+          <label for="contact-number"
+            >phone no.
+            <input type="text" placeholder="9999999999" id="contact-number" />
+          </label>
+          <br /><br />
+
+          <label for="email"
+            >Email:
+            <input type="email" placeholder="xyz@gmail.com" id="email" />
+          </label>
+          <br /><br />
+          <label for="password"
+            >Password
+            <input type="password" placeholder="password" />
+          </label>
+        </section>
+        <section>
+          <h4>Choose your Course:</h4>
+          <label for="class"></label>
+          <input type="radio" value="course1" name="course" id="option1" />Java
+          Full Stack
+          <input
+            type="radio"
+            value="course2"
+            name="course"
+            id="option2"
+          />Python Full Stack
+          <br />
+          <h4>Chose your primary Skills:</h4>
+          <label for="java">
+            <input type="checkbox" value="java" name="skill" id="java" />Java
+          </label>
+          <label for="python">
+            <input
+              type="checkbox"
+              value="python"
+              name="skill"
+              id="python"
+            />Python
+          </label>
+          <label for="javascript">
+            <input
+              type="checkbox"
+              value="javascript"
+              name="skill"
+              id="javascript"
+            />JavaScript
+          </label>
+          <label for="react">
+            <input type="checkbox" value="react" name="skill" id="react" />React
+          </label>
+          <label for="mysql">
+            <input type="checkbox" value="mysql" name="skill" id="mysql" />MySql
+          </label>
+          <label for="oracle">
+            <input
+              type="checkbox"
+              value="oracle"
+              name="skill"
+              id="oracle"
+            />Oracle
+          </label>
+        </section>
+        <br />
+
+        <h4>Choose your city</h4>
+        <select name="city" id="city">
+          <option value="delhi">Delhi</option>
+          <option value="bangaluru">Bangaluru</option>
+          <option value="mumbai">Mumbai</option>
+          <option value="noida">Noida</option>
+        </select>
+
+        <h5>Add your valuable feedback</h5>
+        <textarea
+          name="feedback"
+          placeholder="Please write your valuable feedback here"
+          rows="5"
+          id="feedback"
+        >
+        </textarea>
+        <br />
+        <label for="submit">
+          <input type="submit" name="submit" />
+        </label>
+      </form>
+    </main>
+    <footer>
+      <p>contact me at <strong>kashif@gmail.com</strong></p>
+    </footer>
+  </body>
+</html>
