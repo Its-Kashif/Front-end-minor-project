@@ -6,11 +6,19 @@ This project contains only frontend technologies based minor Projects that are c
 
 1) Changing mode of the display by clicking on the button.(Target Technology: JavaScript)
    Purpose: To know how can we use Javascript to make change in web page dynamically.
-2) Tic Tac Toe Game (Target Technology: JavaScript)
+   
+3) Tic Tac Toe Game (Target Technology: JavaScript)
     purpose: To be familiar with the JavaScript and to get confidence in JavaScript logic.
-3) South India Shopping Mall (Target Technologies: HTML , CSS)
+   
+5) South India Shopping Mall (Target Technologies: HTML , CSS)
    purpose: To get hands on experience in HTML and CSS.
-4) Tic Tac Toe Game (Target technology: JavaScript)
+   
+7) Tic Tac Toe Game (Target technology: JavaScript)
    Purpose: To do practice and to understand the logic building  in order to make our webpage dynamic.
+   
 5)Registration Form (Target technology: HTML)
   purpose: To practice and revise the html  and their elements.
+
+6)Currency Converter: (Target technology: JavaScript)
+  Purpose: To get confident in JavaScript and to practice the fetching the data from api and the manupulating the data. 
+
